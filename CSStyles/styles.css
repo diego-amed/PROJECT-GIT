@@ -146,7 +146,7 @@ footer{
 .showCase {
     width: 100%;
     height: 550px;
-    background-image: url(../IMAGES/Bannerimage.jpeg);
+    background-image: url(../MEDIA/Bannerimage.jpeg);
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
